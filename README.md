@@ -1,8 +1,6 @@
-# Ruby on rails Demo
+# RUBY ON RAILS DEMO
 
-## It Entrepreneurship
+## IT ENTERPRENEURSHIP
 
-### Blog Project
+### BLOG Project
 
-
-#### jajajaj
